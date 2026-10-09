@@ -1,0 +1,608 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Derrylin O'Connells GAC//Fixtures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Derrylin O'Connells – all teams
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-16-reserves-derrylin-o-connells-v-brookeborough-heber-mcmahons
+ @derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260516T183000
+DTEND;TZID=Europe/London:20260516T201500
+SUMMARY:Reserves: Derrylin 5-8 Brookeborough Heber McMahons 0-16
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 5\nReferee: P
+ aul McGoldrick
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-20-u18-teemore-shamrocks-v-derrylin-o-connells@derrylin-oconne
+ lls
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260520T193000
+DTEND;TZID=Europe/London:20260520T210000
+SUMMARY:U18: Teemore Shamrocks 3-15 Derrylin 0-5
+LOCATION:St Mary's Park\, Teemore
+DESCRIPTION:U18 Minor Football League 2026 - League Division 1 – Round 2
+ \nReferee: Aaron Dennison
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-21-seniors-derrylin-o-connells-v-brookeborough-heber-mcmahons@
+ derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260521T200000
+DTEND;TZID=Europe/London:20260521T214500
+SUMMARY:Seniors: Derrylin 2-9 Brookeborough Heber McMahons 1-3
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 3\nR
+ eferee: Barry Monaghan
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-23-reserves-belnaleck-art-macmurroughs-gac-v-derrylin-o-connel
+ ls@derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Reserves: Belnaleck Art MacMurroughs GAC v Derrylin (conceded)
+LOCATION:Belnaleck GAA Grounds
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-27-u18-newtownbutler-first-fermanaghs-v-derrylin-o-connells@de
+ rrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260527T193000
+DTEND;TZID=Europe/London:20260527T210000
+SUMMARY:U18: Newtownbutler First Fermanaghs 4-13 Derrylin 1-12
+LOCATION:Páirc Chanónach Mhig Uidhir\, Achadh Gé
+DESCRIPTION:U18 Minor Football League 2026 - League Division 1 – Round 3
+ \nReferee: Noel McDonagh
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-29-seniors-st-patrick-s-donagh-v-derrylin-o-connells@derrylin-
+ oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260529T193000
+DTEND;TZID=Europe/London:20260529T211500
+SUMMARY:Seniors: St Patrick's Donagh 4-13 Derrylin 1-12
+LOCATION:Louis Leonard Memorial Park\, Donagh
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 4\nR
+ eferee: Niall McCann
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-30-u14-derrylin-o-connells-v-enniskillen-gaels@derrylin-oconne
+ lls
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260530T110000
+DTEND;TZID=Europe/London:20260530T123000
+SUMMARY:U14: Derrylin 2-7 Enniskillen Gaels 9-8
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U14 Football League Division 4 – Round 6\nReferee: Chris McC
+ affrey
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-30-reserves-st-patrick-s-donagh-v-derrylin-o-connells@derrylin
+ -oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Reserves: St Patrick's Donagh v Derrylin (conceded)
+LOCATION:Louis Leonard Memorial Park\, Donagh
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-05-seniors-derrylin-o-connells-v-maguiresbridge-st-mary-s@derr
+ ylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260605T200000
+DTEND;TZID=Europe/London:20260605T214500
+SUMMARY:Seniors: Derrylin 2-13 Maguiresbridge St Mary's 1-13
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 5\nR
+ eferee: Nigel Sweeney
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-reserves-derrylin-o-connells-v-erne-gaels-belleek@derrylin-
+ oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260606T183000
+DTEND;TZID=Europe/London:20260606T201500
+SUMMARY:Reserves: Derrylin 2-16 Erne Gaels Belleek 9-16
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 8\nReferee: N
+ oel Davis
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-11-u18-kinawley-brian-borus-v-derrylin-o-connells@derrylin-oco
+ nnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260611T193000
+DTEND;TZID=Europe/London:20260611T210000
+SUMMARY:U18: Kinawley Brian Borus 2-15 Derrylin 1-9
+LOCATION:Patrick McManus Park\, Kinawley
+DESCRIPTION:U18 Minor Football League 2026 - League Division 1 – Round 5
+ \nReferee: Chris McCaffrey
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-12-seniors-tempo-maguires-v-derrylin-o-connells@derrylin-oconn
+ ells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260612T200000
+DTEND;TZID=Europe/London:20260612T214500
+SUMMARY:Seniors: Tempo Maguires 2-15 Derrylin 1-13
+LOCATION:Páirc Naomh Pádraig\, An t-Iompú Deiseal
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 6\nR
+ eferee: Aaron Dennison
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-14-reserves-lisnaskea-emmetts-v-derrylin-o-connells@derrylin-o
+ connells
+DTSTAMP:20261009T095826Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Reserves: Lisnaskea Emmetts v Derrylin (conceded)
+LOCATION:Emmet Park\, Lisnaskea
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-15-u18-belnaleck-art-macmurroughs-gac-v-derrylin-o-connells@de
+ rrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260615T193000
+DTEND;TZID=Europe/London:20260615T210000
+SUMMARY:U18: Belnaleck Art MacMurroughs GAC 5-8 Derrylin 8-12
+LOCATION:Belnaleck GAA Grounds
+DESCRIPTION:U18 Minor Football League 2026 - League Division 1 – Round 6
+ \nReferee: Paul McCarney
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-21-reserves-derrylin-o-connells-v-derrygonnelly-harps@derrylin
+ -oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Reserves: Derrylin v Derrygonnelly Harps (conceded)
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 10
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-26-seniors-brookeborough-heber-mcmahons-v-derrylin-o-connells@
+ derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260626T200000
+DTEND;TZID=Europe/London:20260626T214500
+SUMMARY:Seniors: Brookeborough Heber McMahons 1-13 Derrylin 2-14
+LOCATION:Brookeborough GAA Grounds
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 8\nR
+ eferee: Fergal Cleary
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-28-seniors-derrylin-o-connells-v-st-patrick-s-donagh@derrylin-
+ oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260628T120000
+DTEND;TZID=Europe/London:20260628T134500
+SUMMARY:Seniors: Derrylin 1-13 St Patrick's Donagh 1-6
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 9\nR
+ eferee: Gerard Gallagher
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-30-u14-erne-gaels-belleek-v-derrylin-o-connells@derrylin-oconn
+ ells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260630T193000
+DTEND;TZID=Europe/London:20260630T210000
+SUMMARY:U14: Erne Gaels Belleek 5-11 Derrylin 1-9
+LOCATION:Páirc na hEirne\, Belleek
+DESCRIPTION:U14 Football League Division 4 – Round 8\nReferee: Niall McC
+ ann
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-30-reserves-belnaleck-art-macmurroughs-gac-v-derrylin-o-connel
+ ls@derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260630T200000
+DTEND;TZID=Europe/London:20260630T214500
+SUMMARY:Reserves: Belnaleck Art MacMurroughs GAC 2-15 Derrylin 1-12
+LOCATION:Belnaleck GAA Grounds
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 11\nReferee: 
+ Oliver McShea
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-01-u18-derrylin-o-connells-v-newtownbutler-first-fermanaghs@de
+ rrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260701T193000
+DTEND;TZID=Europe/London:20260701T210000
+SUMMARY:U18: Derrylin 2-9 Newtownbutler First Fermanaghs 4-16
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U18 Minor Football League 2026 - League Division 1 – Round 8
+ \nReferee: Chris McCaffrey
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-05-u18-derrylin-o-connells-v-coa-o-dwyer-s@derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:U18: Derrylin v Coa O`Dwyer's (conceded)
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U18 Minor Football League 2026 - League Division 1 – Round 4
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-08-u18-coa-o-dwyer-s-v-derrylin-o-connells@derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260708T193000
+DTEND;TZID=Europe/London:20260708T210000
+SUMMARY:U18: Coa O`Dwyer's 3-18 Derrylin 3-7
+LOCATION:Coa GAA Grounds
+DESCRIPTION:U18 Minor Football League 2026 - League Division 1 – Round 9
+ \nReferee: Paul Traynor
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-10-seniors-maguiresbridge-st-mary-s-v-derrylin-o-connells@derr
+ ylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260710T200000
+DTEND;TZID=Europe/London:20260710T214500
+SUMMARY:Seniors: Maguiresbridge St Mary's 1-17 Derrylin 0-15
+LOCATION:Páirc na hÓige\, Maguiresbridge
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 10\n
+ Referee: Oliver McShea
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-11-u14-derrylin-o-connells-v-devenish-st-mary-s@derrylin-oconn
+ ells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260711T110000
+DTEND;TZID=Europe/London:20260711T123000
+SUMMARY:U14: Derrylin 5-13 Devenish St. Mary's 4-4
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U14 Football League Division 4 – Round 9\nReferee: Garrett M
+ ac Enrí
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-12-u18-derrylin-o-connells-v-teemore-shamrocks@derrylin-oconne
+ lls
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260712T193000
+DTEND;TZID=Europe/London:20260712T210000
+SUMMARY:U18: Derrylin 0-7 Teemore Shamrocks 4-15
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U18 Minor Football League 2026 - League Division 1 – Round 7
+ \nReferee: Paul Traynor
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-16-u18-derrylin-o-connells-v-kinawley-brian-borus@derrylin-oco
+ nnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260716T193000
+DTEND;TZID=Europe/London:20260716T210000
+SUMMARY:U18: Derrylin 4-14 Kinawley Brian Borus 4-8
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U18 Minor Football League 2026 - League Division 1 – Round 1
+ 0\nReferee: Aaron Dennison
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-17-seniors-maguiresbridge-st-mary-s-v-derrylin-o-connells@derr
+ ylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260717T200000
+DTEND;TZID=Europe/London:20260717T214500
+SUMMARY:Seniors: Maguiresbridge St Mary's 2-11 Derrylin 2-17
+LOCATION:Páirc na hÓige\, Maguiresbridge
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 11\n
+ Referee: Gerard Gallagher
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-reserves-lisnaskea-emmetts-v-derrylin-o-connells@derrylin-o
+ connells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260718T183000
+DTEND;TZID=Europe/London:20260718T201500
+SUMMARY:Reserves: Lisnaskea Emmetts 0-8 Derrylin 3-7
+LOCATION:Emmet Park\, Lisnaskea
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 13\nReferee: 
+ Criostoir Mac Nia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-21-seniors-coa-o-dwyer-s-v-derrylin-o-connells@derrylin-oconne
+ lls
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260721T200000
+DTEND;TZID=Europe/London:20260721T214500
+SUMMARY:Seniors: Coa O`Dwyer's 0-8 Derrylin 7-15
+LOCATION:Coa GAA Grounds
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 7\nR
+ eferee: James Lewis
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-seniors-derrylin-o-connells-v-st-patrick-s-donagh@derrylin-
+ oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260724T200000
+DTEND;TZID=Europe/London:20260724T214500
+SUMMARY:Seniors: Derrylin 0-14 St Patrick's Donagh 1-14
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 12\n
+ Referee: Nigel Sweeney
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-25-u14-belnaleck-art-macmurroughs-gac-v-derrylin-o-connells@de
+ rrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260725T110000
+DTEND;TZID=Europe/London:20260725T123000
+SUMMARY:U14: Belnaleck Art MacMurroughs GAC 6-11 Derrylin 5-2
+LOCATION:Belnaleck GAA Grounds
+DESCRIPTION:U14 Football League Division 4 – Round 10\nReferee: Criostoi
+ r Mac Nia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-31-seniors-derrylin-o-connells-v-brookeborough-heber-mcmahons@
+ derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260731T193000
+DTEND;TZID=Europe/London:20260731T211500
+SUMMARY:Seniors: Derrylin 3-15 Brookeborough Heber McMahons 2-5
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 13\n
+ Referee: Aaron Dennison
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-01-reserves-derrylin-o-connells-v-belcoo-o-rahilly-s@derrylin-
+ oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260801T183000
+DTEND;TZID=Europe/London:20260801T201500
+SUMMARY:Reserves: Derrylin 2-14 Belcoo O'Rahilly's 3-16
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 14\nReferee: 
+ Chris McCaffrey
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-07-seniors-tempo-maguires-v-derrylin-o-connells@derrylin-oconn
+ ells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260807T193000
+DTEND;TZID=Europe/London:20260807T211500
+SUMMARY:Seniors: Tempo Maguires 2-13 Derrylin 2-18
+LOCATION:Páirc Naomh Pádraig\, An t-Iompú Deiseal
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 14\n
+ Referee: Gerard Mclaughlin
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-12-u18-derrylin-o-connells-v-teemore-shamrocks@derrylin-oconne
+ lls
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260812T193000
+DTEND;TZID=Europe/London:20260812T210000
+SUMMARY:U18: Derrylin 0-15 Teemore Shamrocks 4-18
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U18 Football Championship - Cup Division 1 – QF2\nReferee: K
+ arol Bradshaw
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-16-seniors-coa-o-dwyer-s-v-derrylin-o-connells@derrylin-oconne
+ lls
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260816T150000
+DTEND;TZID=Europe/London:20260816T164500
+SUMMARY:Seniors: Coa O`Dwyer's 0-10 Derrylin 1-14
+LOCATION:Coa GAA Grounds
+DESCRIPTION:Crust & Crumb Senior Football League Division 3 – Round 15\n
+ Referee: James Carey
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-19-u16-enniskillen-gaels-a-v-derrylin-o-connells@derrylin-ocon
+ nells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260819T193000
+DTEND;TZID=Europe/London:20260819T210000
+SUMMARY:U16: Enniskillen Gaels A 2-9 Derrylin 1-6
+LOCATION:Brewster Park\, Enniskillen
+DESCRIPTION:U16 Football League 2026 - League Division 1 – Round 1\nRefe
+ ree: Paul McCarney
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-u14-derrylin-o-connells-v-coa-o-dwyer-s@derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260822T110000
+DTEND;TZID=Europe/London:20260822T123000
+SUMMARY:U14: Derrylin 5-9 Coa O`Dwyer's 5-8
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U14 Football Championship 2026 - Cup Division 2 – QF3\nRefer
+ ee: Aaron Quigley
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-seniors-belcoo-o-rahilly-s-v-derrylin-o-connells@derrylin-o
+ connells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260822T180000
+DTEND;TZID=Europe/London:20260822T194500
+SUMMARY:Seniors: Belcoo O'Rahilly's 1-23 Derrylin 0-24
+LOCATION:Belnaleck GAA Grounds
+DESCRIPTION:Senior Football League Division 2/3 Play-Off\nReferee: Michael
+  Keown
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-26-u16-derrylin-o-connells-v-irvinestown-st-molaise@derrylin-o
+ connells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260826T191500
+DTEND;TZID=Europe/London:20260826T204500
+SUMMARY:U16: Derrylin 2-10 Irvinestown St Molaise 0-8
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U16 Football League 2026 - League Division 1 – Round 2\nRefe
+ ree: Noel McDonagh
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-02-u16-kinawley-brian-borus-v-derrylin-o-connells@derrylin-oco
+ nnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260902T191500
+DTEND;TZID=Europe/London:20260902T204500
+SUMMARY:U16: Kinawley Brian Borus 1-6 Derrylin 2-16
+LOCATION:Patrick McManus Park\, Kinawley
+DESCRIPTION:U16 Football League 2026 - League Division 1 – Round 3\nRefe
+ ree: Karol Bradshaw
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-u14-derrylin-o-connells-v-belcoo-o-rahilly-s@derrylin-oconn
+ ells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260905T110000
+DTEND;TZID=Europe/London:20260905T123000
+SUMMARY:U14: Derrylin 2-9 Belcoo O'Rahilly's 3-13
+LOCATION:Belnaleck GAA Grounds
+DESCRIPTION:U14 Football Championship 2026 - Cup Division 2 – SF2\nRefer
+ ee: Aaron Quigley
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-06-seniors-devenish-st-mary-s-v-derrylin-o-connells@derrylin-o
+ connells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260906T163000
+DTEND;TZID=Europe/London:20260906T181500
+SUMMARY:Seniors: Devenish St. Mary's 3-19 Derrylin 1-15
+LOCATION:St Mary's Park\, Garrison
+DESCRIPTION:Cadco IFC Group A – Round 1\nReferee: Niall Cullen
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-09-u16-derrygonnelly-harps-v-derrylin-o-connells@derrylin-ocon
+ nells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260909T190000
+DTEND;TZID=Europe/London:20260909T203000
+SUMMARY:U16: Derrygonnelly Harps 1-7 Derrylin 6-13
+LOCATION:Canon Maguire Park\, Derrygonnelly
+DESCRIPTION:U16 Football League 2026 - League Division 1 – Round 4\nRefe
+ ree: Michael Keown
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-13-seniors-derrylin-o-connells-v-roslea-shamrocks@derrylin-oco
+ nnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260913T133000
+DTEND;TZID=Europe/London:20260913T151500
+SUMMARY:Seniors: Derrylin 1-13 Roslea Shamrocks 2-14
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:Cadco IFC Group A – Round 2\nReferee: James Lewis
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-u16-derrylin-o-connells-v-newtownbutler-first-fermanaghs@de
+ rrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260916T184500
+DTEND;TZID=Europe/London:20260916T201500
+SUMMARY:U16: Derrylin 0-8 Newtownbutler First Fermanaghs 4-15
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U16 Football League 2026 - League Division 1 – Round 5\nRefe
+ ree: Noel McDonagh
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-20-seniors-derrylin-o-connells-v-belcoo-o-rahilly-s@derrylin-o
+ connells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260920T150000
+DTEND;TZID=Europe/London:20260920T164500
+SUMMARY:Seniors: Derrylin 3-22 Belcoo O'Rahilly's 0-13
+LOCATION:Canon Maguire Park\, Derrygonnelly
+DESCRIPTION:Cadco IFC Group A – Round 3\nReferee: Gerard Gallagher
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-u16-derrylin-o-connells-v-enniskillen-gaels-a@derrylin-ocon
+ nells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260926T113000
+DTEND;TZID=Europe/London:20260926T130000
+SUMMARY:U16: Derrylin 3-11 Enniskillen Gaels A 1-11
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U16 Football League 2026 - League Division 1 – Round 6\nRefe
+ ree: Aaron Dennison
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-u16-irvinestown-st-molaise-v-derrylin-o-connells@derrylin-o
+ connells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20261003T110000
+DTEND;TZID=Europe/London:20261003T123000
+SUMMARY:U16: Irvinestown St Molaise 3-7 Derrylin 4-15
+LOCATION:St Molaise's Park\, Irvinestown
+DESCRIPTION:U16 Football League 2026 - League Division 1 – Round 7\nRefe
+ ree: Nigel Sweeney
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-seniors-derrylin-o-connells-v-st-patrick-s-donagh@derrylin-
+ oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20261003T163000
+DTEND;TZID=Europe/London:20261003T181500
+SUMMARY:Seniors: Derrylin 0-25 St Patrick's Donagh 2-10
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:Cadco Intermediate Football Championship – Quarter Final\nRe
+ feree: James Carey
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-u16-derrylin-o-connells-v-kinawley-brian-borus@derrylin-oco
+ nnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20261010T110000
+DTEND;TZID=Europe/London:20261010T123000
+SUMMARY:U16: Derrylin v Kinawley Brian Borus
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U16 Football League 2026 - League Division 1 – Round 8\nRefe
+ ree: Aaron Quigley
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-seniors-derrylin-o-connells-v-kinawley-brian-borus@derrylin
+ -oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20261010T180000
+DTEND;TZID=Europe/London:20261010T194500
+SUMMARY:Seniors: Derrylin v Kinawley Brian Borus
+LOCATION:St Molaise's Park\, Irvinestown
+DESCRIPTION:Cadco Intermediate Football Championship – Semi Final\nRefer
+ ee: Niall McCann\nLive on Monaghan Bros Fermanagh GAA TV
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-u16-derrylin-o-connells-v-derrygonnelly-harps@derrylin-ocon
+ nells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20261017T110000
+DTEND;TZID=Europe/London:20261017T123000
+SUMMARY:U16: Derrylin v Derrygonnelly Harps
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:U16 Football League 2026 - League Division 1 – Round 9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-u16-newtownbutler-first-fermanaghs-v-derrylin-o-connells@de
+ rrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20261024T110000
+DTEND;TZID=Europe/London:20261024T123000
+SUMMARY:U16: Newtownbutler First Fermanaghs v Derrylin
+LOCATION:Páirc Chanónach Mhig Uidhir\, Achadh Gé
+DESCRIPTION:U16 Football League 2026 - League Division 1 – Round 10
+END:VEVENT
+END:VCALENDAR
