@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Derrylin O'Connells GAC//Fixtures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Derrylin O'Connells – Reserves
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+X-PUBLISHED-TTL:PT2H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-16-reserves-derrylin-o-connells-v-brookeborough-heber-mcmahons
+ @derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260516T183000
+DTEND;TZID=Europe/London:20260516T201500
+SUMMARY:Reserves: Derrylin 5-8 Brookeborough Heber McMahons 0-16
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 5\nReferee: P
+ aul McGoldrick
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-23-reserves-belnaleck-art-macmurroughs-gac-v-derrylin-o-connel
+ ls@derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Reserves: Belnaleck Art MacMurroughs GAC v Derrylin (conceded)
+LOCATION:Belnaleck GAA Grounds
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 6
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-30-reserves-st-patrick-s-donagh-v-derrylin-o-connells@derrylin
+ -oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Reserves: St Patrick's Donagh v Derrylin (conceded)
+LOCATION:Louis Leonard Memorial Park\, Donagh
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-reserves-derrylin-o-connells-v-erne-gaels-belleek@derrylin-
+ oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260606T183000
+DTEND;TZID=Europe/London:20260606T201500
+SUMMARY:Reserves: Derrylin 2-16 Erne Gaels Belleek 9-16
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 8\nReferee: N
+ oel Davis
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-14-reserves-lisnaskea-emmetts-v-derrylin-o-connells@derrylin-o
+ connells
+DTSTAMP:20261009T095826Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Reserves: Lisnaskea Emmetts v Derrylin (conceded)
+LOCATION:Emmet Park\, Lisnaskea
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 9
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-21-reserves-derrylin-o-connells-v-derrygonnelly-harps@derrylin
+ -oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Reserves: Derrylin v Derrygonnelly Harps (conceded)
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 10
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-30-reserves-belnaleck-art-macmurroughs-gac-v-derrylin-o-connel
+ ls@derrylin-oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260630T200000
+DTEND;TZID=Europe/London:20260630T214500
+SUMMARY:Reserves: Belnaleck Art MacMurroughs GAC 2-15 Derrylin 1-12
+LOCATION:Belnaleck GAA Grounds
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 11\nReferee: 
+ Oliver McShea
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-reserves-lisnaskea-emmetts-v-derrylin-o-connells@derrylin-o
+ connells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260718T183000
+DTEND;TZID=Europe/London:20260718T201500
+SUMMARY:Reserves: Lisnaskea Emmetts 0-8 Derrylin 3-7
+LOCATION:Emmet Park\, Lisnaskea
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 13\nReferee: 
+ Criostoir Mac Nia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-01-reserves-derrylin-o-connells-v-belcoo-o-rahilly-s@derrylin-
+ oconnells
+DTSTAMP:20261009T095826Z
+DTSTART;TZID=Europe/London:20260801T183000
+DTEND;TZID=Europe/London:20260801T201500
+SUMMARY:Reserves: Derrylin 2-14 Belcoo O'Rahilly's 3-16
+LOCATION:O'Connell Park\, Derrylin
+DESCRIPTION:B McCaffrey & Sons Erne Cup Division 2 – Round 14\nReferee: 
+ Chris McCaffrey
+END:VEVENT
+END:VCALENDAR
