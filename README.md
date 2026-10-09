@@ -1,1 +1,0 @@
-# Derrylin-O-Connells
