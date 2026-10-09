@@ -2,9 +2,7 @@
 // Your apps > Web app > "SDK setup and configuration" > Config).
 // While apiKey is empty the site runs in DEMO MODE: fixtures and results work,
 // and live scoring is saved only on the device you're using.
-window.FIREBASE_CONFIG = {
 // Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -19,4 +17,4 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-const app = initializeApp(firebaseConfig);
+   window.FIREBASE_CONFIG = firebaseConfig;
