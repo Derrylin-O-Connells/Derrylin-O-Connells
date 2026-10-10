@@ -1,7 +1,7 @@
 {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-10-09T09:58:26Z",
+ "updated": "2026-10-10T12:22:47Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -934,9 +934,9 @@
    "grade": "U16",
    "home": "Derrylin O'Connells",
    "away": "Kinawley Brian Borus",
-   "homeScore": null,
-   "awayScore": null,
-   "status": "fixture",
+   "homeScore": "6-20",
+   "awayScore": "1-6",
+   "status": "result",
    "concededBy": null,
    "us": "home",
    "venue": "O'Connell Park, Derrylin",

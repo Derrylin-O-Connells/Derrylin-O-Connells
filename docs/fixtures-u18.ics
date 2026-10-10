@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-05-20-u18-teemore-shamrocks-v-derrylin-o-connells@derrylin-oconne
  lls
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260520T193000
 DTEND;TZID=Europe/London:20260520T210000
 SUMMARY:U18: Teemore Shamrocks 3-15 Derrylin 0-5
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-27-u18-newtownbutler-first-fermanaghs-v-derrylin-o-connells@de
  rrylin-oconnells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260527T193000
 DTEND;TZID=Europe/London:20260527T210000
 SUMMARY:U18: Newtownbutler First Fermanaghs 4-13 Derrylin 1-12
@@ -49,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-11-u18-kinawley-brian-borus-v-derrylin-o-connells@derrylin-oco
  nnells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260611T193000
 DTEND;TZID=Europe/London:20260611T210000
 SUMMARY:U18: Kinawley Brian Borus 2-15 Derrylin 1-9
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-15-u18-belnaleck-art-macmurroughs-gac-v-derrylin-o-connells@de
  rrylin-oconnells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260615T193000
 DTEND;TZID=Europe/London:20260615T210000
 SUMMARY:U18: Belnaleck Art MacMurroughs GAC 5-8 Derrylin 8-12
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-01-u18-derrylin-o-connells-v-newtownbutler-first-fermanaghs@de
  rrylin-oconnells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260701T193000
 DTEND;TZID=Europe/London:20260701T210000
 SUMMARY:U18: Derrylin 2-9 Newtownbutler First Fermanaghs 4-16
@@ -81,7 +81,7 @@ DESCRIPTION:U18 Minor Football League 2026 - League Division 1 – Round 8
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-05-u18-derrylin-o-connells-v-coa-o-dwyer-s@derrylin-oconnells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
 SUMMARY:U18: Derrylin v Coa O`Dwyer's (conceded)
@@ -90,7 +90,7 @@ DESCRIPTION:U18 Minor Football League 2026 - League Division 1 – Round 4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-08-u18-coa-o-dwyer-s-v-derrylin-o-connells@derrylin-oconnells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260708T193000
 DTEND;TZID=Europe/London:20260708T210000
 SUMMARY:U18: Coa O`Dwyer's 3-18 Derrylin 3-7
@@ -101,7 +101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-12-u18-derrylin-o-connells-v-teemore-shamrocks@derrylin-oconne
  lls
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260712T193000
 DTEND;TZID=Europe/London:20260712T210000
 SUMMARY:U18: Derrylin 0-7 Teemore Shamrocks 4-15
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-16-u18-derrylin-o-connells-v-kinawley-brian-borus@derrylin-oco
  nnells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260716T193000
 DTEND;TZID=Europe/London:20260716T210000
 SUMMARY:U18: Derrylin 4-14 Kinawley Brian Borus 4-8
@@ -123,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-12-u18-derrylin-o-connells-v-teemore-shamrocks@derrylin-oconne
  lls
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260812T193000
 DTEND;TZID=Europe/London:20260812T210000
 SUMMARY:U18: Derrylin 0-15 Teemore Shamrocks 4-18

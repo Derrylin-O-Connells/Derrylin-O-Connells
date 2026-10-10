@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-08-19-u16-enniskillen-gaels-a-v-derrylin-o-connells@derrylin-ocon
  nells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260819T193000
 DTEND;TZID=Europe/London:20260819T210000
 SUMMARY:U16: Enniskillen Gaels A 2-9 Derrylin 1-6
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26-u16-derrylin-o-connells-v-irvinestown-st-molaise@derrylin-o
  connells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260826T191500
 DTEND;TZID=Europe/London:20260826T204500
 SUMMARY:U16: Derrylin 2-10 Irvinestown St Molaise 0-8
@@ -49,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02-u16-kinawley-brian-borus-v-derrylin-o-connells@derrylin-oco
  nnells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260902T191500
 DTEND;TZID=Europe/London:20260902T204500
 SUMMARY:U16: Kinawley Brian Borus 1-6 Derrylin 2-16
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09-u16-derrygonnelly-harps-v-derrylin-o-connells@derrylin-ocon
  nells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260909T190000
 DTEND;TZID=Europe/London:20260909T203000
 SUMMARY:U16: Derrygonnelly Harps 1-7 Derrylin 6-13
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16-u16-derrylin-o-connells-v-newtownbutler-first-fermanaghs@de
  rrylin-oconnells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260916T184500
 DTEND;TZID=Europe/London:20260916T201500
 SUMMARY:U16: Derrylin 0-8 Newtownbutler First Fermanaghs 4-15
@@ -82,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26-u16-derrylin-o-connells-v-enniskillen-gaels-a@derrylin-ocon
  nells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20260926T113000
 DTEND;TZID=Europe/London:20260926T130000
 SUMMARY:U16: Derrylin 3-11 Enniskillen Gaels A 1-11
@@ -93,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03-u16-irvinestown-st-molaise-v-derrylin-o-connells@derrylin-o
  connells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20261003T110000
 DTEND;TZID=Europe/London:20261003T123000
 SUMMARY:U16: Irvinestown St Molaise 3-7 Derrylin 4-15
@@ -104,10 +104,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10-u16-derrylin-o-connells-v-kinawley-brian-borus@derrylin-oco
  nnells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20261010T110000
 DTEND;TZID=Europe/London:20261010T123000
-SUMMARY:U16: Derrylin v Kinawley Brian Borus
+SUMMARY:U16: Derrylin 6-20 Kinawley Brian Borus 1-6
 LOCATION:O'Connell Park\, Derrylin
 DESCRIPTION:U16 Football League 2026 - League Division 1 – Round 8\nRefe
  ree: Aaron Quigley
@@ -115,7 +115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17-u16-derrylin-o-connells-v-derrygonnelly-harps@derrylin-ocon
  nells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20261017T110000
 DTEND;TZID=Europe/London:20261017T123000
 SUMMARY:U16: Derrylin v Derrygonnelly Harps
@@ -125,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24-u16-newtownbutler-first-fermanaghs-v-derrylin-o-connells@de
  rrylin-oconnells
-DTSTAMP:20261009T095826Z
+DTSTAMP:20261010T122247Z
 DTSTART;TZID=Europe/London:20261024T110000
 DTEND;TZID=Europe/London:20261024T123000
 SUMMARY:U16: Newtownbutler First Fermanaghs v Derrylin
