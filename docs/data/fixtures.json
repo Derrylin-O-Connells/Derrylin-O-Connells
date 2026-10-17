@@ -1,7 +1,7 @@
 {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-10-16T12:02:56Z",
+ "updated": "2026-10-17T11:25:37Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -970,9 +970,9 @@
    "grade": "U16",
    "home": "Derrylin O'Connells",
    "away": "Derrygonnelly Harps",
-   "homeScore": null,
-   "awayScore": null,
-   "status": "fixture",
+   "homeScore": "6-25",
+   "awayScore": "1-7",
+   "status": "result",
    "concededBy": null,
    "us": "home",
    "venue": "O'Connell Park, Derrylin",
