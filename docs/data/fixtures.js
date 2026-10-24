@@ -1,7 +1,7 @@
 window.DERRYLIN_FIXTURES = {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-10-23T20:29:53Z",
+ "updated": "2026-10-24T17:55:55Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -994,7 +994,7 @@ window.DERRYLIN_FIXTURES = {
    "concededBy": null,
    "us": "away",
    "venue": "Páirc Chanónach Mhig Uidhir, Achadh Gé",
-   "referee": "TBC",
+   "referee": "Karol Bradshaw",
    "stream": null
   }
  ]
