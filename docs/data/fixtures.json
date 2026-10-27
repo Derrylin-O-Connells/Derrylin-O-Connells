@@ -1,7 +1,7 @@
 {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-10-24T17:55:55Z",
+ "updated": "2026-10-27T00:46:59Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -980,9 +980,9 @@
    "stream": null
   },
   {
-   "id": "2026-10-31-u16-newtownbutler-first-fermanaghs-v-derrylin-o-connells",
-   "date": "2026-10-31",
-   "time": "11:00",
+   "id": "2026-10-28-u16-newtownbutler-first-fermanaghs-v-derrylin-o-connells",
+   "date": "2026-10-28",
+   "time": "19:30",
    "competition": "U16 Football League 2026 - League Division 1",
    "round": "Round 10",
    "grade": "U16",
@@ -993,7 +993,7 @@
    "status": "fixture",
    "concededBy": null,
    "us": "away",
-   "venue": "Páirc Chanónach Mhig Uidhir, Achadh Gé",
+   "venue": "O'Connell Park, Derrylin",
    "referee": "Karol Bradshaw",
    "stream": null
   }
