@@ -1,7 +1,7 @@
 window.DERRYLIN_FIXTURES = {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-10-28T22:42:54Z",
+ "updated": "2026-10-29T14:58:07Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -995,6 +995,24 @@ window.DERRYLIN_FIXTURES = {
    "us": "away",
    "venue": "O'Connell Park, Derrylin",
    "referee": "Karol Bradshaw",
+   "stream": null
+  },
+  {
+   "id": "2026-10-31-u16-newtownbutler-first-fermanaghs-v-derrylin-o-connells",
+   "date": "2026-10-31",
+   "time": "11:00",
+   "competition": "U16 Football League 2026 - Division 1 Final",
+   "round": "Final",
+   "grade": "U16",
+   "home": "Newtownbutler First Fermanaghs",
+   "away": "Derrylin O'Connells",
+   "homeScore": null,
+   "awayScore": null,
+   "status": "fixture",
+   "concededBy": null,
+   "us": "away",
+   "venue": "Belnaleck GAA Grounds",
+   "referee": "TBC",
    "stream": null
   }
  ]
