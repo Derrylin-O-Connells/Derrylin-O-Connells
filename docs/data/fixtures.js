@@ -1,7 +1,7 @@
 window.DERRYLIN_FIXTURES = {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-10-29T14:58:07Z",
+ "updated": "2026-10-30T14:53:42Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -1012,7 +1012,7 @@ window.DERRYLIN_FIXTURES = {
    "concededBy": null,
    "us": "away",
    "venue": "Belnaleck GAA Grounds",
-   "referee": "TBC",
+   "referee": "Nigel Sweeney",
    "stream": null
   }
  ]
