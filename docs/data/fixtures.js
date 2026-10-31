@@ -1,7 +1,7 @@
 window.DERRYLIN_FIXTURES = {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-10-30T14:53:42Z",
+ "updated": "2026-10-31T13:44:03Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -1006,9 +1006,9 @@ window.DERRYLIN_FIXTURES = {
    "grade": "U16",
    "home": "Newtownbutler First Fermanaghs",
    "away": "Derrylin O'Connells",
-   "homeScore": null,
-   "awayScore": null,
-   "status": "fixture",
+   "homeScore": "7-10",
+   "awayScore": "3-9",
+   "status": "result",
    "concededBy": null,
    "us": "away",
    "venue": "Belnaleck GAA Grounds",
