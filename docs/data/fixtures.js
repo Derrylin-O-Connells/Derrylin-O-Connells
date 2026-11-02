@@ -1,7 +1,7 @@
 window.DERRYLIN_FIXTURES = {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-10-31T13:44:03Z",
+ "updated": "2026-11-02T14:58:46Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -1013,6 +1013,24 @@ window.DERRYLIN_FIXTURES = {
    "us": "away",
    "venue": "Belnaleck GAA Grounds",
    "referee": "Nigel Sweeney",
+   "stream": null
+  },
+  {
+   "id": "2026-11-07-u16-derrylin-o-connells-v-pr1-winner",
+   "date": "2026-11-07",
+   "time": "11:00",
+   "competition": "U16 A Football Championship",
+   "round": "QF3",
+   "grade": "U16",
+   "home": "Derrylin O'Connells",
+   "away": "PR1 Winner",
+   "homeScore": null,
+   "awayScore": null,
+   "status": "fixture",
+   "concededBy": null,
+   "us": "home",
+   "venue": "O'Connell Park, Derrylin",
+   "referee": "TBC",
    "stream": null
   }
  ]
