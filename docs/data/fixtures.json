@@ -1,7 +1,7 @@
 {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-11-02T14:58:46Z",
+ "updated": "2026-11-05T14:59:32Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -1016,21 +1016,21 @@
    "stream": null
   },
   {
-   "id": "2026-11-07-u16-derrylin-o-connells-v-pr1-winner",
+   "id": "2026-11-07-u16-derrylin-o-connells-v-lisnaskea-emmetts",
    "date": "2026-11-07",
    "time": "11:00",
    "competition": "U16 A Football Championship",
    "round": "QF3",
    "grade": "U16",
    "home": "Derrylin O'Connells",
-   "away": "PR1 Winner",
+   "away": "Lisnaskea Emmetts",
    "homeScore": null,
    "awayScore": null,
    "status": "fixture",
    "concededBy": null,
    "us": "home",
    "venue": "O'Connell Park, Derrylin",
-   "referee": "TBC",
+   "referee": "Aaron Dennison",
    "stream": null
   }
  ]
