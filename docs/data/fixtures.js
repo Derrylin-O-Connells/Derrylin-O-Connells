@@ -1,7 +1,7 @@
 window.DERRYLIN_FIXTURES = {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-11-07T14:51:11Z",
+ "updated": "2026-11-10T04:04:07Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -1031,6 +1031,24 @@ window.DERRYLIN_FIXTURES = {
    "us": "home",
    "venue": "O'Connell Park, Derrylin",
    "referee": "Aaron Dennison",
+   "stream": null
+  },
+  {
+   "id": "2026-11-14-u16-derrylin-o-connells-v-enniskillen-gaels",
+   "date": "2026-11-14",
+   "time": "11:00",
+   "competition": "U16 A Football Championship",
+   "round": "SF2",
+   "grade": "U16",
+   "home": "Derrylin O'Connells",
+   "away": "Enniskillen Gaels",
+   "homeScore": null,
+   "awayScore": null,
+   "status": "fixture",
+   "concededBy": null,
+   "us": "home",
+   "venue": "TBC",
+   "referee": "TBC",
    "stream": null
   }
  ]
