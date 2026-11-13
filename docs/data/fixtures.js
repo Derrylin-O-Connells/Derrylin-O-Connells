@@ -1,7 +1,7 @@
 window.DERRYLIN_FIXTURES = {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-11-13T14:51:18Z",
+ "updated": "2026-11-13T21:22:42Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -1048,7 +1048,7 @@ window.DERRYLIN_FIXTURES = {
    "concededBy": null,
    "us": "home",
    "venue": "Patrick McManus Park, Kinawley",
-   "referee": "TBC",
+   "referee": "Aaron Quigley",
    "stream": null
   }
  ]
