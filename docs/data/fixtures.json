@@ -1,7 +1,7 @@
 {
  "club": "Derrylin O'Connells",
  "source": "https://fermanagh.gaa.ie/fixtures-results/team/derrylin-oconnells/a78482ce-7649-6fcf-4908-5f2190e62840/",
- "updated": "2026-11-13T21:22:42Z",
+ "updated": "2026-11-14T15:43:27Z",
  "calendars": [
   {
    "grade": "Reserves",
@@ -1042,9 +1042,9 @@
    "grade": "U16",
    "home": "Derrylin O'Connells",
    "away": "Enniskillen Gaels",
-   "homeScore": null,
-   "awayScore": null,
-   "status": "fixture",
+   "homeScore": "1-7",
+   "awayScore": "1-13",
+   "status": "result",
    "concededBy": null,
    "us": "home",
    "venue": "Patrick McManus Park, Kinawley",
